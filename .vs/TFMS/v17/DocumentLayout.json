@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Final_Project\\Main_Project\\TFMS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DAD984B2-03A9-42B2-9983-D8DB9C5A8DDC}|TFMS.API\\TFMS.API.csproj|d:\\final_project\\main_project\\tfms\\tfms.api\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DAD984B2-03A9-42B2-9983-D8DB9C5A8DDC}|TFMS.API\\TFMS.API.csproj|solutionrelative:tfms.api\\controllers\\visitorscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D85FEEEE-365C-4D99-8A62-E67832142C38}|TFMS.Lib\\TFMS.Lib.csproj|d:\\final_project\\main_project\\tfms\\tfms.lib\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D85FEEEE-365C-4D99-8A62-E67832142C38}|TFMS.Lib\\TFMS.Lib.csproj|solutionrelative:tfms.lib\\models\\dbmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF04F9B-3EFF-4630-9E0D-2699A967E362}|tfms.reactclient\\tfms.reactclient.esproj|d:\\final_project\\main_project\\tfms\\tfms.reactclient\\src\\views\\visitoreditform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FAF04F9B-3EFF-4630-9E0D-2699A967E362}|tfms.reactclient\\tfms.reactclient.esproj|solutionrelative:tfms.reactclient\\src\\views\\visitoreditform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF04F9B-3EFF-4630-9E0D-2699A967E362}|tfms.reactclient\\tfms.reactclient.esproj|d:\\final_project\\main_project\\tfms\\tfms.reactclient\\src\\views\\visitorcreateform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FAF04F9B-3EFF-4630-9E0D-2699A967E362}|tfms.reactclient\\tfms.reactclient.esproj|solutionrelative:tfms.reactclient\\src\\views\\visitorcreateform.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FAF04F9B-3EFF-4630-9E0D-2699A967E362}|tfms.reactclient\\tfms.reactclient.esproj|d:\\final_project\\main_project\\tfms\\tfms.reactclient\\src\\views\\visitorlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{FAF04F9B-3EFF-4630-9E0D-2699A967E362}|tfms.reactclient\\tfms.reactclient.esproj|solutionrelative:tfms.reactclient\\src\\views\\visitorlist.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitorCreateForm.jsx",
+              "DocumentMoniker": "D:\\Final_Project\\Main_Project\\TFMS\\tfms.reactclient\\src\\views\\VisitorCreateForm.jsx",
+              "RelativeDocumentMoniker": "tfms.reactclient\\src\\views\\VisitorCreateForm.jsx",
+              "ToolTip": "D:\\Final_Project\\Main_Project\\TFMS\\tfms.reactclient\\src\\views\\VisitorCreateForm.jsx",
+              "RelativeToolTip": "tfms.reactclient\\src\\views\\VisitorCreateForm.jsx",
+              "ViewState": "AQIAAP4AAAAAAAAAAAAAABwBAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-22T19:14:19.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisitorList.jsx",
+              "DocumentMoniker": "D:\\Final_Project\\Main_Project\\TFMS\\tfms.reactclient\\src\\views\\VisitorList.jsx",
+              "RelativeDocumentMoniker": "tfms.reactclient\\src\\views\\VisitorList.jsx",
+              "ToolTip": "D:\\Final_Project\\Main_Project\\TFMS\\tfms.reactclient\\src\\views\\VisitorList.jsx",
+              "RelativeToolTip": "tfms.reactclient\\src\\views\\VisitorList.jsx",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAAAF8AAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-22T19:14:14.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VisitorsController.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\Controllers\\VisitorsController.cs",
+              "RelativeDocumentMoniker": "TFMS.API\\Controllers\\VisitorsController.cs",
+              "ToolTip": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\Controllers\\VisitorsController.cs",
+              "RelativeToolTip": "TFMS.API\\Controllers\\VisitorsController.cs",
+              "ViewState": "AQIAAJEAAAAArsvMzMz0v6QAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-22T09:42:22.507Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitorEditForm.jsx",
+              "DocumentMoniker": "D:\\Final_Project\\Main_Project\\TFMS\\tfms.reactclient\\src\\views\\VisitorEditForm.jsx",
+              "RelativeDocumentMoniker": "tfms.reactclient\\src\\views\\VisitorEditForm.jsx",
+              "ToolTip": "D:\\Final_Project\\Main_Project\\TFMS\\tfms.reactclient\\src\\views\\VisitorEditForm.jsx",
+              "RelativeToolTip": "tfms.reactclient\\src\\views\\VisitorEditForm.jsx",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAowB8AAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2024-05-22T20:04:54.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DbModel.cs",
+              "DocumentMoniker": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.Lib\\Models\\DbModel.cs",
+              "RelativeDocumentMoniker": "TFMS.Lib\\Models\\DbModel.cs",
+              "ToolTip": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.Lib\\Models\\DbModel.cs",
+              "RelativeToolTip": "TFMS.Lib\\Models\\DbModel.cs",
+              "ViewState": "AQIAAGYAAAAAdmZmZmYIwIYAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-20T22:17:36.856Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

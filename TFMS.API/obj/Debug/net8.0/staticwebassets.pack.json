@@ -1,0 +1,77 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\1.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\10.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\10.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\11.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\11.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\2.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\3.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\4.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\4.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\5.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\5.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\6.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\6.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\7.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\7.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\8.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\8.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\9.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\9.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\logo1.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\logo1.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\logo2.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\logo2.jpg"
+    },
+    {
+      "Id": "D:\\Final_Project\\Main_Project\\TFMS\\TFMS.API\\wwwroot\\Pictures\\logo3.jpg",
+      "PackagePath": "staticwebassets\\Pictures\\logo3.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.TFMS.API.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.TFMS.API.props",
+      "PackagePath": "build\\TFMS.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.TFMS.API.props",
+      "PackagePath": "buildMultiTargeting\\TFMS.API.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.TFMS.API.props",
+      "PackagePath": "buildTransitive\\TFMS.API.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,250 @@
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\Fahad_56\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\R56\Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\R56\Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\R56\Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\R56\Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\R56\Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\R56\Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\R56\Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\R56\Project\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+C:\Users\User\Downloads\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\User\Downloads\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+C:\Users\User\Downloads\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+C:\Users\User\Downloads\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+C:\Users\User\Downloads\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+C:\Users\User\Downloads\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+C:\Users\User\Downloads\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+C:\Users\User\Downloads\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\Final Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Final Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Final Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\Final Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\Final Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\Final Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\Final Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\Final Project\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\Round-56\LAB_PC\Final_Project\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\Final_Project\BackUp\TFMS\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\appsettings.json
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.exe
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.deps.json
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.runtimeconfig.json
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.dll
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\bin\Debug\net8.0\TFMS.Web.pdb
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfoInputs.cache
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.AssemblyInfo.cs
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.csproj.CoreCompileInputs.cache
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.TFMS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.TFMS.Web.props
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.TFMS.Web.props
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.TFMS.Web.props
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\scopedcss\bundle\TFMS.Web.styles.css
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.dll
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\refint\TFMS.Web.dll
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.pdb
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\TFMS.Web.genruntimeconfig.cache
+D:\Fahad_56\Final_Project\Main_Project\TFMS\TFMS.Web\obj\Debug\net8.0\ref\TFMS.Web.dll

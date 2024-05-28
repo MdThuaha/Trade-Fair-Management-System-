@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFMS.Web", "TFMS.Web\TFMS.Web.csproj", "{4D786871-1D6C-4B05-89B9-CB5D57DFFD08}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFMS.Lib", "TFMS.Lib\TFMS.Lib.csproj", "{D85FEEEE-365C-4D99-8A62-E67832142C38}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TFMS.API", "TFMS.API\TFMS.API.csproj", "{DAD984B2-03A9-42B2-9983-D8DB9C5A8DDC}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TFMS.NgClient", "TFMS.NgClient\TFMS.NgClient.esproj", "{BC1659D1-ADC3-4F0D-8A4E-0BAF9447F9C9}"
+EndProject
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "tfms.reactclient", "tfms.reactclient\tfms.reactclient.esproj", "{FAF04F9B-3EFF-4630-9E0D-2699A967E362}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D786871-1D6C-4B05-89B9-CB5D57DFFD08}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D786871-1D6C-4B05-89B9-CB5D57DFFD08}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D786871-1D6C-4B05-89B9-CB5D57DFFD08}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D786871-1D6C-4B05-89B9-CB5D57DFFD08}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D85FEEEE-365C-4D99-8A62-E67832142C38}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D85FEEEE-365C-4D99-8A62-E67832142C38}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D85FEEEE-365C-4D99-8A62-E67832142C38}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D85FEEEE-365C-4D99-8A62-E67832142C38}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DAD984B2-03A9-42B2-9983-D8DB9C5A8DDC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DAD984B2-03A9-42B2-9983-D8DB9C5A8DDC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DAD984B2-03A9-42B2-9983-D8DB9C5A8DDC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DAD984B2-03A9-42B2-9983-D8DB9C5A8DDC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1659D1-ADC3-4F0D-8A4E-0BAF9447F9C9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BC1659D1-ADC3-4F0D-8A4E-0BAF9447F9C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BC1659D1-ADC3-4F0D-8A4E-0BAF9447F9C9}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{BC1659D1-ADC3-4F0D-8A4E-0BAF9447F9C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BC1659D1-ADC3-4F0D-8A4E-0BAF9447F9C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BC1659D1-ADC3-4F0D-8A4E-0BAF9447F9C9}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{FAF04F9B-3EFF-4630-9E0D-2699A967E362}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAF04F9B-3EFF-4630-9E0D-2699A967E362}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAF04F9B-3EFF-4630-9E0D-2699A967E362}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{FAF04F9B-3EFF-4630-9E0D-2699A967E362}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAF04F9B-3EFF-4630-9E0D-2699A967E362}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAF04F9B-3EFF-4630-9E0D-2699A967E362}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FCEDBC23-E628-4EB7-9B7B-6ACEB85E9CBC}
+	EndGlobalSection
+EndGlobal
